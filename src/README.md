@@ -1,6 +1,6 @@
 # Introduction
 
-<img src="/images/header.png" width=2000>
+<img src="./images/header.png" width=2000>
 
 <div align="center">
   
@@ -26,11 +26,11 @@
 
 | Provider  | Support Status  | Supported Endpoints |
 |---|---|---|
-| <img src="/images/openai.png" width=18> OpenAI | <img src="/images/heavy_check_sign.png" width=25 align=center> Supported  | `/completion`, `/embed` |
-| <img src="/images/anthropic.png" width=18> Anthropic  | <img src="/images/heavy_check_sign.png" width=25 align=center> Supported  | `/complete` |
-| <img src="/images/cohere.png" width=18> Cohere  | <img src="/images/heavy_check_sign.png" width=25 align=center> Supported  | `generate`, `embed` |
-| <img src="/images/bard.png" width=18> Google Bard  | <img src="/images/coming_soon.png" width=30 align=center> Coming Soon  |  |
-| <img src="/images/localai.png" width=18> LocalAI  | <img src="/images/coming_soon.png" width=30 align=center> Coming Soon  |  |
+| <img src="./images/openai.png" width=18> OpenAI | <img src="./images/heavy_check_sign.png" width=25 align=center> Supported  | `/completion`, `/embed` |
+| <img src="./images/anthropic.png" width=18> Anthropic  | <img src="./images/heavy_check_sign.png" width=25 align=center> Supported  | `/complete` |
+| <img src="./images/cohere.png" width=18> Cohere  | <img src="./images/heavy_check_sign.png" width=25 align=center> Supported  | `generate`, `embed` |
+| <img src="./images/bard.png" width=18> Google Bard  | <img src="./images/coming_soon.png" width=30 align=center> Coming Soon  |  |
+| <img src="./images/localai.png" width=18> LocalAI  | <img src="./images/coming_soon.png" width=30 align=center> Coming Soon  |  |
 
 
 
